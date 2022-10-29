@@ -4,7 +4,7 @@
 The current project shows all operational busses of the chosen route.
 
 
-## How to Run: 
+## How to Run 
 This applications runs automated once you started it by clicking the buttons for the route you want to track.
 
 ## Roadmap of future improvements
