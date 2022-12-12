@@ -18,7 +18,6 @@ async function run1() {
   const locations = await getBusLocations1();
   console.log(new Date());
   console.log(locations);
-
  
 
   //create realTime busMarker of all busses on route and add to map (using mapbox library mapboxgl)
